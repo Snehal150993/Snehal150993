@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SNEHAL PATIL
+  - 👋 Hi, I’m SNEHAL PATIL
 - 👀 I’m interested in Software Testing,coding,learning new things.
 - 🌱 I’m currently learning GIT GITHUB
 - 💞️ I’m looking to collaborate on ...
